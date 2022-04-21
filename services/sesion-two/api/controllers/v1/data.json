@@ -1,0 +1,32 @@
+{
+    "color":[
+        {
+            "id": 1,
+            "colors": "red",
+            "value": "#FF0000"    
+        },
+        {   "id": 2,
+            "colors": "blue",
+            "value": "#0000FF"    
+        },
+        {
+            "id": 3,
+            "colors": "green",
+            "value": "#0000FF"    
+        },
+        {
+            "id": 4,
+            "colors": "chocolate",
+            "value": "#45322E"    
+        },
+        {
+            "id": 5,
+            "colors": "warermelon",
+            "value": "#FE7F9C"    
+        }
+    ]
+    
+
+
+
+}
