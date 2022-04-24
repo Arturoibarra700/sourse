@@ -1,0 +1,100 @@
+{
+
+    "color":[
+        
+        {
+            "id": 1,
+            "colors": "red",
+            "value": "#FF3333"    
+        },
+        {   "id": 2,
+            "colors": "blue",
+            "value": "#3333FF"    
+        },
+        {
+            "id": 3,
+            "colors": "green",
+            "value": "#08DC18"    
+        },
+        {
+            "id": 4,
+            "colors": "Yellow",
+            "value": "#D5CD08"    
+        },
+        {
+            "id": 5,
+            "colors": "Gold",
+            "value": "#FFD700"    
+        },
+
+        {
+            "id": 6,
+            "colors": "Gold",
+            "value": "#FFC0CB"    
+        },
+
+        {
+            "id": 7,
+            "colors": "Pink",
+            "value": "#FFC0CB"    
+        },
+        {
+            "id": 8,
+            "colors": "Lightpink",
+            "value": "#FFB6C1"    
+        },
+        {
+            "id": 8,
+            "colors": "Black",
+            "value": "#000000"    
+        },
+        {
+            "id": 9,
+            "colors": "White",
+            "value": "#FFFFFF"    
+        },
+        {
+            "id": 10,
+            "colors": "Lime",
+            "value": "#00FF00"    
+        },
+        {
+            "id": 11,
+            "colors": "Cyan / Aqua",
+            "value": "#00FFFF"    
+        },
+        {
+            "id": 12,
+            "colors": "Magenta/ Fuchsia",
+            "value": "#FF00FF"    
+        },
+        {
+            "id": 13,
+            "colors": "Magenta/ Fuchsia",
+            "value": "#FF00FF"    
+        },
+        {
+            "id": 14,
+            "colors": "Purple",
+            "value": "#800080"    
+        },
+        {
+            "id": 15,
+            "colors": "Navy",
+            "value": "#000080"    
+        }
+
+
+
+
+
+
+
+
+
+    ]
+    
+
+
+
+}

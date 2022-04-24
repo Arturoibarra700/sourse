@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "serve": "nodemon -e .js,.ts app.js"
+    "serve": "nodemon -e .js,.ts api/app.js"
   },
   "keywords": [],
   "author": "Arturo Ibarra",
